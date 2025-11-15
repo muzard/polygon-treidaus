@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@polymarket/clob-client": "github:polymarket/clob-client",
+    "express": "^5.1.0"
+  }
+}
